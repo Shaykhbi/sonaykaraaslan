@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Proje Adı](proje_linki).
 - 🌱 I’m currently learning [Öğrendiğin Teknolojiler].
-- 📫 How to reach me: [email@example.com](mailto:karaaslansonay06@gmail.com).
+- 📫 How to reach me: [karaaslansonay06@gmail.com](mailto:karaaslansonay06@gmail.com).
 
 
 
