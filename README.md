@@ -6,8 +6,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on [Proje Adı](proje_linki).
-- 🌱 I’m currently learning [Öğrendiğin Teknolojiler].
+- 🔭 I’m currently working on [Diatics](proje_linki).
+- 🌱 I’m currently learning [Go,Python].
 - 📫 How to reach me: [karaaslansonay06@gmail.com](mailto:karaaslansonay06@gmail.com).
 
 
