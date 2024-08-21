@@ -1,4 +1,4 @@
-## Hi, 👋 I'm [Sonay], a [Backend Developer] 🚀 from [Turkey].
+## Hi, 👋 I'm Sonay, a Backend Developer 🚀 from Turkey.
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonay-karaaslan-b04bb8219/)
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Proje Adı](proje_linki).
 - 🌱 I’m currently learning [Öğrendiğin Teknolojiler].
-- 📫 How to reach me: [email@example.com](mailto:email@example.com).
+- 📫 How to reach me: [email@example.com](mailto:karaaslansonay06@gmail.com).
 
 
 
