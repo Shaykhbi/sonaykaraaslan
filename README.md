@@ -12,8 +12,8 @@
 
 ### Languages and Tools:
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+ ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
 
 
