@@ -12,8 +12,7 @@
 
 ### Languages and Tools:
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
 
 
