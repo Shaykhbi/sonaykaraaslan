@@ -1,4 +1,4 @@
-## Hi, 👋 I'm Sonay, a Backend Developer 🚀 from Turkey.
+## Hi, 👋 I'm Sonay, a Backend Developer 🚀 from Turkey...
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonay-karaaslan-b04bb8219/)
